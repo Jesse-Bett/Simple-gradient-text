@@ -3,5 +3,4 @@
 * This gives text some gradient.
 * Gradient text in a website makes it stand out.
 
-
-![Some gradient text](https://user-images.githubusercontent.com/40341693/93687689-3783a900-fac8-11ea-82b0-08714fc42da9.png)
+![Screenshot -gradient-text](https://user-images.githubusercontent.com/40341693/93687786-0a83c600-fac9-11ea-8ce7-04320eccd0d7.png)
